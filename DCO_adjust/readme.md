@@ -1,0 +1,1 @@
+This example shows how to adjust the DCO from a low power low frequency LFXT1 oscillator
