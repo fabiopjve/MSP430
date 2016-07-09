@@ -1,0 +1,1 @@
+This example shows a simple digital voltmeter using the ADC2 module and an external character LCD module
