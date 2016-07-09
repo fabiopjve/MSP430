@@ -1,0 +1,1 @@
+A simple digital clock using the MSP430F449 and a static LCD glass
