@@ -1,0 +1,1 @@
+A minute/second timer using the MSP430
