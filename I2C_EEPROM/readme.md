@@ -1,0 +1,1 @@
+A simple library with examples of I2C EEPROM interfacing
